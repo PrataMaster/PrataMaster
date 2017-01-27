@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FFUniverse.View.ConjuntoIso8">
+  <ContentPage.Content BackgroundColor="#1A237E">
+    <ListView x:Name="SetIso" Header="Conjunto de Cyber ISO-8" HasUnevenRows="False" RowHeight="210">
+      <ListView.ItemTemplate>
+        <DataTemplate>
+          <ViewCell>
+            <Grid BackgroundColor="#1A237E">
+              <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+              </Grid.RowDefinitions>
+              <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="50"/>
+                <ColumnDefinition Width="50"/>
+                <ColumnDefinition Width="50"/>
+                <ColumnDefinition Width="50"/>
+                <ColumnDefinition Width="50"/>
+                <ColumnDefinition Width="100"/>
+                <ColumnDefinition Width="Auto"/>
+              </Grid.ColumnDefinitions>
+              <Image Source="{Binding iso1}" Grid.Row="2" Grid.Column="1" Grid.RowSpan="2"/>
+              <Image Source="{Binding iso5}" Grid.Row="4" Grid.Column="1" Grid.RowSpan="2"/>
+              <Image Source="{Binding iso2}" Grid.Row="2" Grid.Column="2" Grid.RowSpan="2"/>
+              <Image Source="{Binding iso6}" Grid.Row="4" Grid.Column="2" Grid.RowSpan="2"/>
+              <Image Source="{Binding iso3}" Grid.Row="2" Grid.Column="3" Grid.RowSpan="2"/>
+              <Image Source="{Binding iso7}" Grid.Row="4" Grid.Column="3" Grid.RowSpan="2"/>
+              <Image Source="{Binding iso4}" Grid.Row="2" Grid.Column="4" Grid.RowSpan="2"/>
+              <Image Source="{Binding iso8}" Grid.Row="4" Grid.Column="4" Grid.RowSpan="2"/>
+              <Label Text="{Binding nome}" Grid.Row="0" Grid.Column="6" TextColor="#29B6F6"/>
+              <Label Text="{Binding atributo0}" Grid.Row="1" Grid.Column="6" TextColor="#FFA000"/>
+              <Label Text="{Binding atributo1}" Grid.Row="2" Grid.Column="6" TextColor="#FFA000"/>
+              <Label Text="{Binding atributo2}" Grid.Row="3" Grid.Column="6" TextColor="#FFA000"/>
+              <Label Text="{Binding atributo3}" Grid.Row="4" Grid.Column="6" TextColor="#FFA000"/>
+              <Label Text="{Binding atributo4}" Grid.Row="5" Grid.Column="6" TextColor="#FFA000"/>
+              <Label Text="{Binding ativacao}" Grid.Row="6" Grid.Column="6" TextColor="#FFFFFF"/>
+              <Label Text="{Binding atributoativacao}" Grid.Row="7" Grid.Column="6" TextColor="#FFFFFF"/>
+            </Grid>
+          </ViewCell>
+        </DataTemplate>
+      </ListView.ItemTemplate>
+    </ListView>
+  </ContentPage.Content>
+</ContentPage>

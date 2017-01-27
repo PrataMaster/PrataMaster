@@ -1,0 +1,40 @@
+CREATE TABLE setiso
+(
+    id_SetIso serial,
+    nome varchar(45),
+    atributo0 varchar(45),
+    atributo1 varchar(45),
+    atributo2 varchar(45),
+    atributo3 varchar(45),
+    atributo4 varchar(45),
+    ativacao varchar(45),
+    atributoAtivacao varchar(45),
+	iso1 varchar (15),
+	iso2 varchar (15),
+	iso3 varchar (15),
+	iso4 varchar (15),
+	iso5 varchar (15),
+	iso6 varchar (15),
+	iso7 varchar (15),
+	iso8 varchar (15),
+    CONSTRAINT pk_SetIso PRIMARY KEY (id_SetIso)
+);
+
+SELECT * FROM setiso
+
+INSERT INTO setiso (nome,atributo0,atributo1,atributo2,atributo3,atributo4,ativacao,atributoativacao,iso1,iso2,iso3,iso4,iso5,iso6,iso7,iso8) VALUES ('Olho do Gavião','Ataque Total +8,5%','Chance de Crítico +8,5%','Dano Crítico +8,5%','Esquiva +8,1%','Tempo de Recarga -8,1%','Atacando com 12% de chance.','Ataque Total +40% (20 Seg.)','poderoso.png','amplificado.png','impregnavel.png','absorvente.png','feroz.png','vital.png','caotico.png','caotico.png');
+INSERT INTO setiso (nome,atributo0,atributo1,atributo2,atributo3,atributo4,ativacao,atributoativacao,iso1,iso2,iso3,iso4,iso5,iso6,iso7,iso8) VALUES ('Proteja o Capitão','Defesa Total +8,5%','HP Máximo +8,5%','Esquiva +8,1%','Recuperação +8,1%','Tempo de Controle de Multidão -8,1%','Sendo atingindo com 15% de chance.','Defesa Total +40% (20 Seg.)','poderoso.png','amplificado.png','impregnavel.png','absorvente.png','vital.png','ligeiro.png','caotico.png','caotico.png');
+INSERT INTO setiso (nome,atributo0,atributo1,atributo2,atributo3,atributo4,ativacao,atributoativacao,iso1,iso2,iso3,iso4,iso5,iso6,iso7,iso8) VALUES ('Poder Binário','HP Máximo +8,5%','Defesa Total +8,5%','Velocidade de Ataque +7,7%','Chance de Crítico +8,5%','Recuperação +8,1%','Sendo atingindo com 15% de chance.','Escudo de 32% do HP Máx. (20 Seg.)','poderoso.png','amplificado.png','impregnavel.png','impregnavel.png','absorvente.png','absorvente.png','vital.png','caotico.png');
+INSERT INTO setiso (nome,atributo0,atributo1,atributo2,atributo3,atributo4,ativacao,atributoativacao,iso1,iso2,iso3,iso4,iso5,iso6,iso7,iso8) VALUES ('Apoio Resoluto','Defesa Total +8,5%','HP Máximo +8,5%','Dano Crítico +8,5%','Esquiva +8,1%','Velocidade de Movimento +7,7%','Sendo atingindo com 15% de chance.','Recuperação de 32% do HP Máx.','poderoso.png','amplificado.png','impregnavel.png','impregnavel.png','absorvente.png','absorvente.png','caotico.png','caotico.png');
+INSERT INTO setiso (nome,atributo0,atributo1,atributo2,atributo3,atributo4,ativacao,atributoativacao,iso1,iso2,iso3,iso4,iso5,iso6,iso7,iso8) VALUES ('Benção de Asgard','Ataque Total +8,5%','Defesa Total +8,5%','HP Máximo +8,5%','Esquiva +8,1%','Tempo de Controle de Multidão -8,1%','Atacando com 12% de chance.','Velocidade de Movimento +40% (20 Seg.)','poderoso.png','amplificado.png','impregnavel.png','absorvente.png','feroz.png','ligeiro.png','caotico.png','caotico.png');
+INSERT INTO setiso (nome,atributo0,atributo1,atributo2,atributo3,atributo4,ativacao,atributoativacao,iso1,iso2,iso3,iso4,iso5,iso6,iso7,iso8) VALUES ('Táticas de Espionagem','Ataque Total +8,5%','Velocidade de Ataque +7,7%','Chance de Crítico +8,5%','Dano Crítico +8,5%','Penetração de Defesa +8,1%','Atacando com 12% de chance.','Recarga de Habilidade -32% (20 Seg.)','poderoso.png','amplificado.png','impregnavel.png','absorvente.png','vital.png','feroz.png','ligeiro.png','caotico.png');
+INSERT INTO setiso (nome,atributo0,atributo1,atributo2,atributo3,atributo4,ativacao,atributoativacao,iso1,iso2,iso3,iso4,iso5,iso6,iso7,iso8) VALUES ('Poder Do Hulk Furioso','Ataque Total +8,5%','Velocidade de Ataque +7,7%','Defesa Total +8,5%','Chance de Crítico +8,5%','Penetração de Defesa +8,1%','Atacando com 12% de chance.','Ataque Total +40% (20 Seg.)','poderoso.png','amplificado.png','impregnavel.png','absorvente.png','feroz.png','caotico.png','caotico.png','caotico.png');
+INSERT INTO setiso (nome,atributo0,atributo1,atributo2,atributo3,atributo4,ativacao,atributoativacao,iso1,iso2,iso3,iso4,iso5,iso6,iso7,iso8) VALUES ('Sentido de Aranha','Defesa Total +8,5%','HP Máximo +8,5%','Esquiva +8,1%','Chance de Crítico +8,5%','Dano Crítico +8,5%','Sendo atingindo com 15%.','Defesa Total +40% (20 Seg.)','impregnavel.png','impregnavel.png','absorvente.png','absorvente.png','vital.png','ligeiro.png','caotico.png','caotico.png');
+INSERT INTO setiso (nome,atributo0,atributo1,atributo2,atributo3,atributo4,ativacao,atributoativacao,iso1,iso2,iso3,iso4,iso5,iso6,iso7,iso8) VALUES ('Sobrecarga','Ataque Total +8,5%','Defesa Total +8,5%','Chance de Crítico 8,5%','Dano Crítico +8,5%','Penetração de Defesa +8,1%','Atacando com 12%.','Ataque Total +40% (20 Seg.)','poderoso.png','poderoso.png','amplificado.png','impregnavel.png','absorvente.png','feroz.png','caotico.png','caotico.png');
+INSERT INTO setiso (nome,atributo0,atributo1,atributo2,atributo3,atributo4,ativacao,atributoativacao,iso1,iso2,iso3,iso4,iso5,iso6,iso7,iso8) VALUES ('Simbionte Tenaz','Ataque Total +8,5%','Defesa Total +8,5%','HP Máximo +8,5%','Esquiva +8,1%','Tempo de Recarga -8,1%','Atacando com 12%.','Defesa Total +40% (20 Seg.)','poderoso.png','amplificado.png','impregnavel.png','impregnavel.png','absorvente.png','absorvente.png','ligeiro.png','caotico.png');
+INSERT INTO setiso (nome,atributo0,atributo1,atributo2,atributo3,atributo4,ativacao,atributoativacao,iso1,iso2,iso3,iso4,iso5,iso6,iso7,iso8) VALUES ('Eu Também sou Groot','Ataque Total +8,5%','HP Máximo +8,5%','Chance de Crítico +8,5%','Tempo de Controle de Multidão -8,1%','Recuperação +8,1%','Sendo atingindo com 15%.','Recuperação de 32% do HP Máx.','poderoso.png','amplificado.png','impregnavel.png','absorvente.png','absorvente.png','vital.png','feroz.png','caotico.png');
+INSERT INTO setiso (nome,atributo0,atributo1,atributo2,atributo3,atributo4,ativacao,atributoativacao,iso1,iso2,iso3,iso4,iso5,iso6,iso7,iso8) VALUES ('Guaxinim Esperto','Ataque Total +8,5%','Defesa Total +8,5%','Chance de Crítico +8,5%','Dano Crítico +8,5%','Tempo de Recarga -8,1%','Atacando com 12%.','Recarga de Habilidade -32% (20 Seg).','poderoso.png','amplificado.png','impregnavel.png','absorvente.png','vital.png','caotico.png','caotico.png','caotico.png');
+INSERT INTO setiso (nome,atributo0,atributo1,atributo2,atributo3,atributo4,ativacao,atributoativacao,iso1,iso2,iso3,iso4,iso5,iso6,iso7,iso8) VALUES ('Melhoria de Densidade Drástica','Ataque Total +8,5%','HP Máximo +8,5%','Dano Crítico +8,5%','Tempo de Controle de Multidão -8,1%','Penetração de Defesa +8,1%','Atacando com 12%.','Escudo de 32% do HP Máx. (20 Seg.)','poderoso.png','amplificado.png','impregnavel.png','impregnavel.png','absorvente.png','ligeiro.png','vital.png','caotico.png');
+INSERT INTO setiso (nome,atributo0,atributo1,atributo2,atributo3,atributo4,ativacao,atributoativacao,iso1,iso2,iso3,iso4,iso5,iso6,iso7,iso8) VALUES ('Príncipe da Mentira','Ataque Total +8,5%','Velocidade de Ataque +7,7%','Chance de Crítico +8,5%','Esquiva +8,1%','Penetração de Defesa +8,1%','Atacando com 12%.','Esquiva +40% (20 Seg.)','poderoso.png','amplificado.png','amplificado.png','impregnavel.png','absorvente.png','ligeiro.png','caotico.png','caotico.png');
+
+

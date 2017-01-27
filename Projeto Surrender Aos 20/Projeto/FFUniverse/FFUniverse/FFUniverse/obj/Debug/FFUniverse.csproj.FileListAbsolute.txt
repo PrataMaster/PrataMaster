@@ -1,0 +1,30 @@
+C:\Users\Gabriel\documents\visual studio 2015\Projects\FFUniverse\FFUniverse\FFUniverse\obj\Debug\FFUniverse.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\documents\visual studio 2015\Projects\FFUniverse\FFUniverse\FFUniverse\obj\Debug\FFUniverse.App.xaml.g.cs
+C:\Users\Gabriel\documents\visual studio 2015\Projects\FFUniverse\FFUniverse\FFUniverse\obj\Debug\FFUniverse.View.ConjuntoIso8.xaml.g.cs
+D:\Gabriel\Estudo\PrataMaster\Projeto Surrender Aos 20\Projeto\FFUniverse\FFUniverse\FFUniverse\obj\Debug\FFUniverse.csproj.App.config
+D:\Gabriel\Estudo\PrataMaster\Projeto Surrender Aos 20\Projeto\FFUniverse\FFUniverse\FFUniverse\obj\Debug\FFUniverse.App.xaml.g.cs
+D:\Gabriel\Estudo\PrataMaster\Projeto Surrender Aos 20\Projeto\FFUniverse\FFUniverse\FFUniverse\obj\Debug\FFUniverse.View.ConjuntoIso8.xaml.g.cs
+D:\Gabriel\Estudo\PrataMaster\Projeto Surrender Aos 20\Projeto\FFUniverse\FFUniverse\FFUniverse\bin\Debug\FFUniverse.dll.config
+D:\Gabriel\Estudo\PrataMaster\Projeto Surrender Aos 20\Projeto\FFUniverse\FFUniverse\FFUniverse\bin\Debug\FFUniverse.dll
+D:\Gabriel\Estudo\PrataMaster\Projeto Surrender Aos 20\Projeto\FFUniverse\FFUniverse\FFUniverse\bin\Debug\FFUniverse.pdb
+D:\Gabriel\Estudo\PrataMaster\Projeto Surrender Aos 20\Projeto\FFUniverse\FFUniverse\FFUniverse\bin\Debug\Newtonsoft.Json.dll
+D:\Gabriel\Estudo\PrataMaster\Projeto Surrender Aos 20\Projeto\FFUniverse\FFUniverse\FFUniverse\bin\Debug\System.Net.Http.dll
+D:\Gabriel\Estudo\PrataMaster\Projeto Surrender Aos 20\Projeto\FFUniverse\FFUniverse\FFUniverse\bin\Debug\System.Net.Http.Extensions.dll
+D:\Gabriel\Estudo\PrataMaster\Projeto Surrender Aos 20\Projeto\FFUniverse\FFUniverse\FFUniverse\bin\Debug\System.Net.Http.Primitives.dll
+D:\Gabriel\Estudo\PrataMaster\Projeto Surrender Aos 20\Projeto\FFUniverse\FFUniverse\FFUniverse\bin\Debug\Xamarin.Forms.Core.dll
+D:\Gabriel\Estudo\PrataMaster\Projeto Surrender Aos 20\Projeto\FFUniverse\FFUniverse\FFUniverse\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Gabriel\Estudo\PrataMaster\Projeto Surrender Aos 20\Projeto\FFUniverse\FFUniverse\FFUniverse\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Gabriel\Estudo\PrataMaster\Projeto Surrender Aos 20\Projeto\FFUniverse\FFUniverse\FFUniverse\bin\Debug\Newtonsoft.Json.xml
+D:\Gabriel\Estudo\PrataMaster\Projeto Surrender Aos 20\Projeto\FFUniverse\FFUniverse\FFUniverse\bin\Debug\System.Net.Http.xml
+D:\Gabriel\Estudo\PrataMaster\Projeto Surrender Aos 20\Projeto\FFUniverse\FFUniverse\FFUniverse\bin\Debug\System.Net.Http.Extensions.xml
+D:\Gabriel\Estudo\PrataMaster\Projeto Surrender Aos 20\Projeto\FFUniverse\FFUniverse\FFUniverse\bin\Debug\System.Net.Http.Primitives.xml
+D:\Gabriel\Estudo\PrataMaster\Projeto Surrender Aos 20\Projeto\FFUniverse\FFUniverse\FFUniverse\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Gabriel\Estudo\PrataMaster\Projeto Surrender Aos 20\Projeto\FFUniverse\FFUniverse\FFUniverse\bin\Debug\Xamarin.Forms.Core.xml
+D:\Gabriel\Estudo\PrataMaster\Projeto Surrender Aos 20\Projeto\FFUniverse\FFUniverse\FFUniverse\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\Gabriel\Estudo\PrataMaster\Projeto Surrender Aos 20\Projeto\FFUniverse\FFUniverse\FFUniverse\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Gabriel\Estudo\PrataMaster\Projeto Surrender Aos 20\Projeto\FFUniverse\FFUniverse\FFUniverse\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Gabriel\Estudo\PrataMaster\Projeto Surrender Aos 20\Projeto\FFUniverse\FFUniverse\FFUniverse\obj\Debug\FFUniverse.dll
+D:\Gabriel\Estudo\PrataMaster\Projeto Surrender Aos 20\Projeto\FFUniverse\FFUniverse\FFUniverse\obj\Debug\FFUniverse.pdb
+D:\Gabriel\Estudo\PrataMaster\Projeto Surrender Aos 20\Projeto\FFUniverse\FFUniverse\FFUniverse\obj\Debug\FFUniverse.csprojResolveAssemblyReference.cache
+D:\Gabriel\Estudo\PrataMaster\Projeto Surrender Aos 20\Projeto\FFUniverse\FFUniverse\FFUniverse\obj\Debug\FFUniverse.dll.mdb
+D:\Gabriel\Estudo\PrataMaster\Projeto Surrender Aos 20\Projeto\FFUniverse\FFUniverse\FFUniverse\bin\Debug\FFUniverse.dll.mdb
